@@ -1,12 +1,17 @@
 body{
-    background: #E9E9E9;
+    background: #F2F2F2;
 }
 
 hr {
     border: 2px solid #DDDDDD;
+    width:90%
 }
 img{
     height: 300px;
     width: 150px;
     
+}
+footer{
+    background-color:#000000;
+   
 }
