@@ -4,7 +4,7 @@ body{
 
 hr {
     border: 2px solid #DDDDDD;
-    width:90%
+    width:97%
 }
 img{
     height: 300px;
@@ -13,6 +13,11 @@ img{
 }
 footer{
     background-color:#666666;
+    border-top: 5px solid #59A9A5;
    
+}
+p{
+    position: relative;;
+    left: 10px;
 }
 
