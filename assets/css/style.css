@@ -6,18 +6,13 @@ hr {
     border: 2px solid #DDDDDD;
     width:97%
 }
-img{
-    height: 300px;
-    width: 150px;
-    
-}
 footer{
     background-color:#666666;
     border-top: 5px solid #59A9A5;
-   
 }
 p{
     position: relative;;
     left: 10px;
 }
+
 
