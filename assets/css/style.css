@@ -3,5 +3,10 @@ body{
 }
 
 hr {
-    border: 1px solid #DDDDDD;
+    border: 2px solid #DDDDDD;
+}
+img{
+    height: 300px;
+    width: 150px;
+    
 }
