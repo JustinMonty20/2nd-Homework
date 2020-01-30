@@ -1,5 +1,6 @@
 body{
     background: #F2F2F2;
+    margin: 0px;
 }
 
 hr {
@@ -16,9 +17,12 @@ footer{
     border-top: 5px solid #59A9A5;
 }
 
+
 .wrapper{
     width: 90%;
 }
+
+
 
 
 
